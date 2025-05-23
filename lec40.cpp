@@ -1,4 +1,4 @@
-// ***************************** Multiple Inheritance with Access Modifiers ************************************
+// ***************************** Multilevel Inheritance with Access Modifiers ************************************
 
 /*
  * Members			Public Derivation	Private Derivation	Protected Derivation
